@@ -1,0 +1,6 @@
+dist
+test-dist
+.nyc_output
+.prettierrc
+node_modules
+package-lock.json

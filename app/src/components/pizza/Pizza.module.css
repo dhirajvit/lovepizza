@@ -1,0 +1,28 @@
+.container {
+  border: 1px solid burlywood;
+  margin: 0 0 10px;
+  padding: 10px;
+  list-style: none;
+}
+.loader {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.container ul li {
+  list-style: none;
+  display: flex;
+  width: 40%;
+  margin: 5px auto;
+  justify-content: space-between;
+}
+.container ul li h2 {
+  margin: 0 0 10px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.container p {
+  margin-bottom: 0;
+}
